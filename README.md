@@ -1,0 +1,2 @@
+# fivemddos
+fivem ddos script
